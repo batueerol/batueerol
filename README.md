@@ -7,13 +7,13 @@
 
 
 :small_blue_diamond:
-Microsoft Azure
-
-:small_blue_diamond:
 Git and Github
 
 :small_blue_diamond:
-Python
+C
+
+:small_blue_diamond:
+Java
 
 :small_blue_diamond:
 Git
@@ -22,16 +22,19 @@ Git
 Unity
 
 :small_blue_diamond:
-Java
+C#
 
 ### :red_circle:I am using: 
 
 
 :small_blue_diamond:
-Python
+C
 
 :small_blue_diamond:
-PyCharm
+Java
+
+:small_blue_diamond:
+NetBeans
 
 :small_blue_diamond:
 Visual Code Studio and Visual Studio Live Share
