@@ -1,16 +1,37 @@
-### Hi there 👋
+## Batuhan Emre Erol -  Computer Science Student 💻 / Intern :computer: ##
 
-<!--
-**batueerol/batueerol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <a href="https://www.linkedin.com/in/batuhan-emre-erol-0a3298203/">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 
-Here are some ideas to get you started:
+### :red_circle:I am currently learning: 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+:small_blue_diamond:
+Microsoft Azure
+
+:small_blue_diamond:
+Git and Github
+
+:small_blue_diamond:
+Python
+
+:small_blue_diamond:
+Git
+
+:small_blue_diamond:
+Unity
+
+:small_blue_diamond:
+Java
+
+### :red_circle:I am using: 
+
+
+:small_blue_diamond:
+Python
+
+:small_blue_diamond:
+PyCharm
+
+:small_blue_diamond:
+Visual Code Studio and Visual Studio Live Share
