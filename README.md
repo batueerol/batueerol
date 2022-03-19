@@ -7,37 +7,43 @@
 
 
 🥮
-Git and Github
-
-🥮
-C
-
-🥮
 Java
+
+🥮
+Spring Boot
+
+🥮
+Docker
 
 🥮
 Git
 
 🥮
-Unity
+AWS
 
 🥮
 C#
+  
+🥮
+MongoDB
 
 ### 🔮I am using: 
 
 
 🥮
-C
+Spring Boot
 
 🥮
 Java
 
 🥮
-NetBeans
+MongoDB
 
 🥮
 Visual Code Studio and Visual Studio Live Share
+  
+🥮
+SQL
 
 
 
