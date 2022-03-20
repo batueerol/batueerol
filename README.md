@@ -1,4 +1,4 @@
-## Batuhan Emre Erol -  Computer Science Student 💻 / Intern :computer: ##
+## Batuhan Emre Erol -  Computer Science Student 💻
 
   <a href="https://www.linkedin.com/in/batuhan-emre-erol-0a3298203/">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
