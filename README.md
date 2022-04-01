@@ -47,6 +47,12 @@ Visual Code Studio and Visual Studio Live Share
   
 🥮
 SQL
+  
+🥮
+IntelliJ IDEA
+  
+🥮
+Docker
 
 
 
