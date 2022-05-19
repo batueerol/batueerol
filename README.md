@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Data Structures and Algorithms, Backend Development, Database Management, Cloud Technology, Agile/Scrum Methodology**
 
-- 💬 Ask me about **Java, Spring Boot, C#, Entity Framework, SQL**
+- 💬 Ask me  **Java, Spring Boot, C#, Entity Framework, SQL**
 
 - 📫 How to reach me **batueerol@gmail.com**
 
